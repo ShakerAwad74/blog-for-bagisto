@@ -1,18 +1,18 @@
 {
-    "name": "webbycrown/blog-for-bagisto",
+    "name": "shakerawad/blog-for-bagisto",
     "description": "Blog for Bagisto",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "WebbyCrown Solutions",
-            "email": "info@webbycrown.com"
+            "name": "Shaker Awad Solutions",
+            "email": "shakerawad@paltechhub.com"
         }
     ],
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/webbycrown/blog-for-bagisto"
+            "url": "https://github.com/ShakerAwad74/blog-for-bagisto"
         }
     ],
     "require": {
